@@ -10,7 +10,7 @@ Bu repository, internet üzerinden **yasal ve ücretsiz (Free-to-Air)** yayın y
 Aşağıdaki linki kopyalayıp IPTV oynatıcınıza (uydu alinizin playerine) yapıştırabilirsiniz:
 https://raw.githubusercontent.com/iytoka53/freenettv/refs/heads/elvin4kpro/freenetsiriushdtv.m3u
 
-Kısaltılmış link
+Kısaltılmış linkler:
 https://bit.ly/siriushdtvfree
 http://bit.ly/siriushdtvfree
 
