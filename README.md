@@ -7,7 +7,7 @@ Updated M3U playlist for Free-to-Air (FTA) TV channels. Legal and open-source
 Bu repository, internet üzerinden **yasal ve ücretsiz (Free-to-Air)** yayın yapan televizyon kanallarının güncel M3U listesini barındırır.
 
 ## 🔗 Liste Bağlantısı
-Aşağıdaki linki kopyalayıp IPTV oynatıcınıza (uydu alinizin playerine) yapıştırabilirsiniz:
+Aşağıdaki linki kopyalayıp IPTV oynatıcınıza (uydu alıcınızın playerine) yapıştırabilirsiniz:
 https://raw.githubusercontent.com/iytoka53/freenettv/refs/heads/elvin4kpro/freenetsiriushdtv.m3u
 
 Kısaltılmış linkler:
