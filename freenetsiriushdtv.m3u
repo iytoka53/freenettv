@@ -19,6 +19,8 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KÖNÜL TV
 http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",TV 36
+http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",İSMAYILLI TV
 https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",BAYZAN müzik
