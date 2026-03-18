@@ -25,15 +25,17 @@ http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 https://catcast-tv2.koprulu2.workers.dev/?id=ulduz-tv.m3u8
 #EXTINF:-1 group-title="FreeNetTV",MEGA TV Music
 https://catcast-tv2.koprulu2.workers.dev/?id=megatvaz.m3u8
+#EXTINF:-1 group-title="FreeNetTV",İSMAYILLI TV
+https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SUPERTÜRK TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FreeNetTV",FIX-TV
+#EXTINF:-1 group-title="FreeNetTV",FİX-TV
 http://venomlink.com/fix/index.m3u8
-#EXTINF:-1 group-title="FreeNetTV",KTV MUSIC
+#EXTINF:-1 group-title="FreeNetTV",KTV MUSİC
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
-#EXTINF:-1 group-title="FreeNetTV",KN MUSIC
+#EXTINF:-1 group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",Azerbaijan Music Plus
 http://cdn4.yayin.com.tr/baltvmusic/tracks-v1a1/mono.m3u8
@@ -43,19 +45,19 @@ http://cdn4.yayin.com.tr/musicazhit/tracks-v1a1/mono.m3u8
 http://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KRAL POP HD
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-#EXTINF:-1 group-title="FreeNetTV",Power Turk HD TR
+#EXTINF:-1 group-title="FreeNetTV",Power Turk HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Power Turk Slow TV HD
+#EXTINF:-1 group-title="FreeNetTV",Power Turk Slow TV
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Power Turk Taptaze HD
+#EXTINF:-1 group-title="FreeNetTV",Power Turk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Power Turk Akustik HD
+#EXTINF:-1 group-title="FreeNetTV",Power Turk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Power Love HD
+#EXTINF:-1 group-title="FreeNetTV",Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Power TV HD
+#EXTINF:-1 group-title="FreeNetTV",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Power Dance FHD
+#EXTINF:-1 group-title="FreeNetTV",Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",Number 1 Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
