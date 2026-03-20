@@ -1,0 +1,72 @@
+#EXTM3U user-agent="Mozilla/5.0"
+
+#EXTINF:-1 group-title="FreeNetTV",SİRİUS HD TV
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",GƏNCƏ TV
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",KƏPƏZ TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="FreeNetTV",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",KANAL 35
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SHOW PLUS
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 group-title="FreeNetTV",RİHAT TV
+https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FreeNetTV",S-TV AZE
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",KÖNÜL TV
+http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",KANAL 65
+https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",TV 36
+http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",ULDUZ TV
+https://catcast-tv2.koprulu2.workers.dev/?id=ulduz-tv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",MEGA TV Music
+https://catcast-tv2.koprulu2.workers.dev/?id=megatvaz.m3u8
+#EXTINF:-1 group-title="FreeNetTV",İSMAYILLI TV
+https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SUPERTÜRK TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FreeNetTV",FİX-TV
+http://venomlink.com/fix/index.m3u8
+#EXTINF:-1 group-title="FreeNetTV",KTV MUSİC
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 group-title="FreeNetTV",KN MUSİC
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Azerbaijan Music Plus
+http://cdn4.yayin.com.tr/baltvmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Azerbaijan Music Hit
+http://cdn4.yayin.com.tr/musicazhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FreeNetTV",MUSİC Russian
+http://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",KRAL POP HD
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 group-title="FreeNetTV",Power Turk HD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Power Turk Slow TV
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Power Turk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Power Turk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Number 1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SLOW KARADENIZ
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Первый музыкальный HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="FreeNetTV",Первый музыкальный HD BY
+http://rtmp.one.by:1300
