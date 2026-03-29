@@ -18,7 +18,7 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KÖNÜL TV
 http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KANAL 65
-https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
+https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",TV 36
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",ULDUZ TV
