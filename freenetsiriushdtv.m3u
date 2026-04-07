@@ -58,3 +58,7 @@ http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="FreeNetTV",Power Turk HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="FreeNetTV",450
+https://live-guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="FreeNetTV",ВРЕМЯ ТВ
+https://tv.tvcdnpotok.com/v7gefd4_DAk7FUVHXZNvtg/2072/1775586206/index.m3u8
