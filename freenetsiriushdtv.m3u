@@ -11,54 +11,37 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SHOW PLUS
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 group-title="FreeNetTV",RİHAT TV
-https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FreeNetTV",S-TV AZE
+#EXTINF:-1 group-title="FreeNetTV",RİHAT MUSIC
+https://catcast-tv2.koprulu2.workers.dev/?id=rihattv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",S-TV Sinema
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KÖNÜL TV
 http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KANAL 65
 https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
-#EXTINF:-1 group-title="FreeNetTV",TV 36
-http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",ULDUZ TV
 https://catcast-tv2.koprulu2.workers.dev/?id=ulduz-tv.m3u8
 #EXTINF:-1 group-title="FreeNetTV",MEGA TV Music
 https://catcast-tv2.koprulu2.workers.dev/?id=megatvaz.m3u8
 #EXTINF:-1 group-title="FreeNetTV",İSMAYILLI TV
-https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
+https://a8.radyotelekom.com.tr:3973/hybrid/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SUPERTÜRK TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1 group-title="FreeNetTV",FİX-TV
-http://venomlink.com/fix/index.m3u8
 #EXTINF:-1 group-title="FreeNetTV",TELE10
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams/best/teleon.m3u8
 #EXTINF:-1 group-title="FreeNetTV",ALMANYA TV
 http://145.239.37.125:20458/almanyatv/almanyatv/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
-#EXTINF:-1 group-title="FreeNetTV",KANAL F
-https://gel-benim-ol-canim.baba-zirvede-az-biz-ismayil-baba.workers.dev/?id=ftvturkiye.m3u8
-#EXTINF:-1 group-title="FreeNetTV",KEMAL SUNAL
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/ksunal.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KTV MUSİC
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Azerbaijan Music Plus
-http://cdn4.yayin.com.tr/baltvmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",Azerbaijan Music Hit
 http://cdn4.yayin.com.tr/musicazhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FreeNetTV",MUSİC Russian
-http://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KRAL POP HD
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="FreeNetTV",Power Turk HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="FreeNetTV",450
-https://live-guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="FreeNetTV",ВРЕМЯ ТВ
-https://tv.tvcdnpotok.com/v7gefd4_DAk7FUVHXZNvtg/2072/1775586206/index.m3u8
