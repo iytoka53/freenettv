@@ -1,6 +1,6 @@
 #EXTM3U user-agent="Mozilla/5.0"
-#EXTINF:-1 group-title="FreeNetTV",SİRİUS HD TV
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SİRİUS HD TV (sat)
+http://streamsat.siriushdtv-onlineclap.workers.dev/live.ts
 #EXTINF:-1 group-title="FreeNetTV",GƏNCƏ TV
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KƏPƏZ TV
