@@ -12,23 +12,21 @@ http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SHOW PLUS
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 group-title="FreeNetTV",RİHAT MUSIC
-https://catcast-tv2.koprulu2.workers.dev/?id=rihattv.m3u8
+https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FreeNetTV",TTV AZ
+https://a8.radyotelekom.com.tr:3170/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",S-TV Sinema
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KÖNÜL TV
 http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",ALMANYA TV
 http://145.239.37.125:20458/almanyatv/almanyatv/playlist.m3u8
-#EXTINF:-1 group-title="FreeNetTV",KASTAMONU TV
-http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KTV MUSİC
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Azerbaijan Music Hit
-http://cdn4.yayin.com.tr/musicazhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KRAL POP HD
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="FreeNetTV",Power Turk HD
