@@ -3,6 +3,12 @@
 http://streamsat.siriushdtv-onlineclap.workers.dev/live.ts
 #EXTINF:-1 group-title="FreeNetTV",GƏNCƏ TV
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",DigiNET Cinema
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",S-TV Sinema
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",FİX TV
+https://yayin.venomlink.com/live/mystream/main_stream.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KƏPƏZ TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 group-title="FreeNetTV",EL TV
@@ -11,20 +17,14 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SHOW PLUS
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 group-title="FreeNetTV",RİHAT MUSIC
-https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FreeNetTV",TTV AZ
-https://a8.radyotelekom.com.tr:3170/stream/play.m3u8
-#EXTINF:-1 group-title="FreeNetTV",S-TV Sinema
-https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
-#EXTINF:-1 group-title="FreeNetTV",KÖNÜL TV
-http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",FƏRRUX TV
+http://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",QAFQAZ TV
+http://str.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:-1 group-title="FreeNetTV",ALMANYA TV
 http://145.239.37.125:20458/almanyatv/almanyatv/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FreeNetTV",KTV MUSİC
-https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KRAL POP HD
