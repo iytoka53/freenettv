@@ -33,3 +33,5 @@ http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",PTV UHD
 http://cw25.xyz:80/YBE9RM0/BVJ2CCC/1470228
+#EXTINF:-1 group-title="FreeNetTV",PTV HD
+http://lordstreams.live:80/Bark/Bark/851646
