@@ -23,10 +23,32 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 http://stream.ftv.az/live/ftv.m3u8
 #EXTINF:-1 group-title="FreeNetTV",QAFQAZ TV
 http://str.yodacdn.net/qafkaz/index.m3u8
+#EXTINF:-1 group-title="FreeNetTV",TELE 10
+http://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/index.m3u8
+#EXTINF:-1 group-title="FreeNetTV",LİFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1 group-title="FreeNetTV",TV BEGEN
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",VİYANA TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="FreeNetTV",İsviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",RİZE TÜRK
+https://yayin.rizeturk.com:3777/stream/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",RİTİM TV
+https://ritimtv.ozelip.com:3632/hybrid/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",FortunaTV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",ALMANYA TV
 http://145.239.37.125:20458/almanyatv/almanyatv/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSİQİ",Первый музыкальный HD RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://rtmp.one.by:2300/chunks.ts
+#EXTINF:-1 group-title="MUSİQİ",Первый музыкальный HD BY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://rtmp.one.by:1300/chunks.ts
 #EXTINF:-1 group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KRAL POP HD
