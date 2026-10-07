@@ -43,11 +43,9 @@ https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 http://145.239.37.125:20458/almanyatv/almanyatv/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MUSİQİ",Первый музыкальный HD RU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MUSİQİ",PERVIY HD RU
 http://rtmp.one.by:2300/chunks.ts
-#EXTINF:-1 group-title="MUSİQİ",Первый музыкальный HD BY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MUSİQİ",PERVIY HD BY
 http://rtmp.one.by:1300/chunks.ts
 #EXTINF:-1 group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
