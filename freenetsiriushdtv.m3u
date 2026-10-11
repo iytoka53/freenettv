@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="FreeNetTV",SİRİUS HD TV (sat)
 http://streamsat.siriushdtv-onlineclap.workers.dev/siriushd.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SİRİUS KLASSIKA TV
+https://catcast.ismailturret.workers.dev/sirius_klassika_tv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SİRİUS WORLD CUP TV
+https://catcast.ismailturret.workers.dev/sirius-hdworldcup2026.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SIRIUS CITY TV
+https://catcast.ismailturret.workers.dev/sirius-citytv.m3u8
+#EXTINF:-1 group-title="FreeNetTV",SIRIUS TAMAŞA TV
+https://catcast.ismailturret.workers.dev/sirius-tamasatv.m3u8
 #EXTINF:-1 group-title="FreeNetTV",GƏNCƏ TV
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
 #EXTINF:-1 group-title="FreeNetTV",DigiNET Cinema
