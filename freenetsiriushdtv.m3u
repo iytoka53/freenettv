@@ -51,9 +51,9 @@ https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 http://145.239.37.125:20458/almanyatv/almanyatv/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MUSİQİ",PERVIY HD RU
+#EXTINF:-1 group-title="FreeNetTV",PERVIY HD RU
 http://rtmp.one.by:2300/chunks.ts
-#EXTINF:-1 group-title="MUSİQİ",PERVIY HD BY
+#EXTINF:-1 group-title="FreeNetTV",PERVIY HD BY
 http://rtmp.one.by:1300/chunks.ts
 #EXTINF:-1 group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
@@ -73,331 +73,340 @@ http://lordstreams.live:80/Bark/Bark/851646
 http://lordstreams.live:80/Bark/Bark/745540
 #EXTINF:-1 group-title="FreeNetTV",PTV HD 3
 http://vivaelbetis.neospaxy.top:8080/44177567954251/fekwxvd8t3x8/8679
-#EXTINF:0 tvg-id="50341" tvg-name="PlayerCınema Action" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png" group-title="PLAYER TV",PlayerCınema Action 1
+
+#EXTINF:0 tvg-id="50341" tvg-name="PlayerCınema Action" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png" group-title="FreeNetTV",PlayerCınema Action 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercınema.m3u8
-#EXTINF:0 tvg-id="50534" tvg-name="PlayerCinema Action 2" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50534-6990e36cb5217.png" group-title="PLAYER TV",PlayerCinema Action 2
+#EXTINF:0 tvg-id="50534" tvg-name="PlayerCinema Action 2" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50534-6990e36cb5217.png" group-title="FreeNetTV",PlayerCinema Action 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-acsion2.m3u8
-#EXTINF:0 tvg-id="50554" tvg-name="PlayerCinema Action 3" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50554-69940d1d1ba17.png" group-title="PLAYER TV",PlayerCinema Action 3
+#EXTINF:0 tvg-id="50554" tvg-name="PlayerCinema Action 3" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50554-69940d1d1ba17.png" group-title="FreeNetTV",PlayerCinema Action 3
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-action3.m3u8
-#EXTINF:0 tvg-id="50556" tvg-name="PlayerCinema Action 4" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50556-69940e37e68d4.png" group-title="PLAYER TV",PlayerCinema Action 4
+#EXTINF:0 tvg-id="50556" tvg-name="PlayerCinema Action 4" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50556-69940e37e68d4.png" group-title="FreeNetTV",PlayerCinema Action 4
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-acsion4.m3u8
-#EXTINF:0 tvg-id="50727" tvg-name="PlayerCinema ACTION 5" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50727-69b859f9ee0d5.png" group-title="PLAYER TV",PlayerCinema ACTION 5
+#EXTINF:0 tvg-id="50727" tvg-name="PlayerCinema ACTION 5" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50727-69b859f9ee0d5.png" group-title="FreeNetTV",PlayerCinema ACTION 5
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-action5.m3u8
-#EXTINF:0 tvg-id="50946" tvg-name="PlayerCınema ACTION 6" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50946-69cfde586be32.png" group-title="PLAYER TV",PlayerCınema ACTION 6
+#EXTINF:0 tvg-id="50946" tvg-name="PlayerCınema ACTION 6" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50946-69cfde586be32.png" group-title="FreeNetTV",PlayerCınema ACTION 6
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercnema-action6.m3u8
-#EXTINF:0 tvg-id="50667" tvg-name="PlayerCinema SQUID GAME 1" tvg-logo="https://img.catcast.tv/uploads/04032026/logos/50667-69a86a1eb0892.png" group-title="PLAYER TV",PlayerCinema SQUID GAME 1
+#EXTINF:0 tvg-id="50667" tvg-name="PlayerCinema SQUID GAME 1" tvg-logo="https://img.catcast.tv/uploads/04032026/logos/50667-69a86a1eb0892.png" group-title="FreeNetTV",PlayerCinema SQUID GAME 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-squidgame1.m3u8
-#EXTINF:0 tvg-id="50673" tvg-name="PlayerCinema SQUID GAME 2" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50673-69a928202923a.png" group-title="PLAYER TV",PlayerCinema SQUID GAME 2
+#EXTINF:0 tvg-id="50673" tvg-name="PlayerCinema SQUID GAME 2" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50673-69a928202923a.png" group-title="FreeNetTV",PlayerCinema SQUID GAME 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-squidgame 2.m3u8
-#EXTINF:0 tvg-id="50674" tvg-name="PlayerCinema SQUID GAME 3" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50674-69a929130ae93.png" group-title="PLAYER TV",PlayerCinema SQUID GAME 3
+#EXTINF:0 tvg-id="50674" tvg-name="PlayerCinema SQUID GAME 3" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50674-69a929130ae93.png" group-title="FreeNetTV",PlayerCinema SQUID GAME 3
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-squidgame3.m3u8
-#EXTINF:0 tvg-id="50675" tvg-name="PlayerCinema ALICE 1" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50675-69a9727ef09a6.png" group-title="PLAYER TV",PlayerCinema ALICE 1
+#EXTINF:0 tvg-id="50675" tvg-name="PlayerCinema ALICE 1" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50675-69a9727ef09a6.png" group-title="FreeNetTV",PlayerCinema ALICE 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-alice1.m3u8
-#EXTINF:0 tvg-id="50676" tvg-name="PlayerCinema ALICE 2" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50676-69a972e4d2b9a.png" group-title="PLAYER TV",PlayerCinema ALICE 2
+#EXTINF:0 tvg-id="50676" tvg-name="PlayerCinema ALICE 2" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50676-69a972e4d2b9a.png" group-title="FreeNetTV",PlayerCinema ALICE 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-alice2.m3u8
-#EXTINF:0 tvg-id="50677" tvg-name="PlayerCinema ALICE 3" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50677-69a9735212406.png" group-title="PLAYER TV",PlayerCinema ALICE 3
+#EXTINF:0 tvg-id="50677" tvg-name="PlayerCinema ALICE 3" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50677-69a9735212406.png" group-title="FreeNetTV",PlayerCinema ALICE 3
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-alice3.m3u8
-#EXTINF:0 tvg-id="50783" tvg-name="PlayerCinema MARVEL" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50783-69b8529ae02b6.png" group-title="PLAYER TV",PlayerCinema MARVEL 1
+#EXTINF:0 tvg-id="50783" tvg-name="PlayerCinema MARVEL" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50783-69b8529ae02b6.png" group-title="FreeNetTV",PlayerCinema MARVEL 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-marvel.m3u8
-#EXTINF:0 tvg-id="50784" tvg-name="PlayerCinema MARVEL 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50784-69b8537549fc9.png" group-title="PLAYER TV",PlayerCinema MARVEL 2
+#EXTINF:0 tvg-id="50784" tvg-name="PlayerCinema MARVEL 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50784-69b8537549fc9.png" group-title="FreeNetTV",PlayerCinema MARVEL 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-marvel2.m3u8
-#EXTINF:0 tvg-id="50785" tvg-name="PlayerCinema  MARVEL 3" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50785-69b85819ea743.png" group-title="PLAYER TV",PlayerCinema  MARVEL 3
+#EXTINF:0 tvg-id="50785" tvg-name="PlayerCinema  MARVEL 3" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50785-69b85819ea743.png" group-title="FreeNetTV",PlayerCinema  MARVEL 3
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-marvel3.m3u8
-#EXTINF:0 tvg-id="50943" tvg-name="PlayerCınema MARVEL 4" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50943-69cd5e07a35fb.png" group-title="PLAYER TV",PlayerCınema MARVEL 4
+#EXTINF:0 tvg-id="50943" tvg-name="PlayerCınema MARVEL 4" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50943-69cd5e07a35fb.png" group-title="FreeNetTV",PlayerCınema MARVEL 4
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercnema-marvel4.m3u8
-#EXTINF:0 tvg-id="50944" tvg-name="PlayerCınema MARVEL 5" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50944-69cd5f2d86174.png" group-title="PLAYER TV",PlayerCınema MARVEL 5
+#EXTINF:0 tvg-id="50944" tvg-name="PlayerCınema MARVEL 5" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50944-69cd5f2d86174.png" group-title="FreeNetTV",PlayerCınema MARVEL 5
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercnema-marvel5.m3u8
-#EXTINF:0 tvg-id="50945" tvg-name="PlayerCınema MARVEL 6" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50945-69cd5f9675cef.png" group-title="PLAYER TV",PlayerCınema MARVEL 6
+#EXTINF:0 tvg-id="50945" tvg-name="PlayerCınema MARVEL 6" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50945-69cd5f9675cef.png" group-title="FreeNetTV",PlayerCınema MARVEL 6
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercnema-marvel6.m3u8
-#EXTINF:0 tvg-id="50678" tvg-name="PlayerCinema CEHENNEM MELEKLERI" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50678-69b854a274d36.png" group-title="PLAYER TV",PlayerCinema CEHENNEM MELEKLERI
+#EXTINF:0 tvg-id="50678" tvg-name="PlayerCinema CEHENNEM MELEKLERI" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50678-69b854a274d36.png" group-title="FreeNetTV",PlayerCinema CEHENNEM MELEKLERI
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinemacehennemmelekleri.m3u8
-#EXTINF:0 tvg-id="50680" tvg-name="PlayerCinema MATRIX" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50680-69b85207581a2.png" group-title="PLAYER TV",PlayerCinema MATRIX
+#EXTINF:0 tvg-id="50680" tvg-name="PlayerCinema MATRIX" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50680-69b85207581a2.png" group-title="FreeNetTV",PlayerCinema MATRIX
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-matrix.m3u8
-#EXTINF:0 tvg-id="50690" tvg-name="PlayerCinema RAMBO" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50690-69a977ee9e1fc.png" group-title="PLAYER TV",PlayerCinema RAMBO
+#EXTINF:0 tvg-id="50690" tvg-name="PlayerCinema RAMBO" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50690-69a977ee9e1fc.png" group-title="FreeNetTV",PlayerCinema RAMBO
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-rambo.m3u8
-#EXTINF:0 tvg-id="50714" tvg-name="PlayerCinema ROCKY" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50714-69b858d925c96.png" group-title="PLAYER TV",PlayerCinema ROCKY
+#EXTINF:0 tvg-id="50714" tvg-name="PlayerCinema ROCKY" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50714-69b858d925c96.png" group-title="FreeNetTV",PlayerCinema ROCKY
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-rocky.m3u8
-#EXTINF:0 tvg-id="50713" tvg-name="PlayerCinema VAN DAMME" tvg-logo="https://img.catcast.tv/uploads/17032026/logos/50713-69b866532d69c.png" group-title="PLAYER TV",PlayerCinema VAN DAMME 1
+#EXTINF:0 tvg-id="50713" tvg-name="PlayerCinema VAN DAMME" tvg-logo="https://img.catcast.tv/uploads/17032026/logos/50713-69b866532d69c.png" group-title="FreeNetTV",PlayerCinema VAN DAMME 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-vandamme.m3u8
-#EXTINF:0 tvg-id="50739" tvg-name="PlayerCinema VAN DAMME 2" tvg-logo="https://img.catcast.tv/uploads/17032026/logos/50739-69b866b6a082a.png" group-title="PLAYER TV",PlayerCinema VAN DAMME 2
+#EXTINF:0 tvg-id="50739" tvg-name="PlayerCinema VAN DAMME 2" tvg-logo="https://img.catcast.tv/uploads/17032026/logos/50739-69b866b6a082a.png" group-title="FreeNetTV",PlayerCinema VAN DAMME 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-vandamme2.m3u8
-#EXTINF:0 tvg-id="50715" tvg-name="PlayerCinema FORSAJ 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50715-69b85607df9c2.png" group-title="PLAYER TV",PlayerCinema FORSAJ 1
+#EXTINF:0 tvg-id="50715" tvg-name="PlayerCinema FORSAJ 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50715-69b85607df9c2.png" group-title="FreeNetTV",PlayerCinema FORSAJ 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-forsaj1.m3u8
-#EXTINF:0 tvg-id="50716" tvg-name="PlayerCinema FORSAJ 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50716-69b85dbf8f071.png" group-title="PLAYER TV",PlayerCinema FORSAJ 2
+#EXTINF:0 tvg-id="50716" tvg-name="PlayerCinema FORSAJ 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50716-69b85dbf8f071.png" group-title="FreeNetTV",PlayerCinema FORSAJ 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-forsaj2.m3u8
-#EXTINF:0 tvg-id="50691" tvg-name="PlayerCinema Olum Yarisi" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50691-69a978c3cac45.png" group-title="PLAYER TV",PlayerCinema Olum Yarisi
+#EXTINF:0 tvg-id="50691" tvg-name="PlayerCinema Olum Yarisi" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50691-69a978c3cac45.png" group-title="FreeNetTV",PlayerCinema Olum Yarisi
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-olumyarisi.m3u8
-#EXTINF:0 tvg-id="50722" tvg-name="PlayerCinema MORTAL COMBAT" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50722-69b85179539b4.png" group-title="PLAYER TV",PlayerCinema MORTAL COMBAT
+#EXTINF:0 tvg-id="50722" tvg-name="PlayerCinema MORTAL COMBAT" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50722-69b85179539b4.png" group-title="FreeNetTV",PlayerCinema MORTAL COMBAT
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-mortalcombat.m3u8
-#EXTINF:0 tvg-id="50718" tvg-name="PlayerCinema BOYKA" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50718-69b8597a3e919.png" group-title="PLAYER TV",PlayerCinema BOYKA
+#EXTINF:0 tvg-id="50718" tvg-name="PlayerCinema BOYKA" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50718-69b8597a3e919.png" group-title="FreeNetTV",PlayerCinema BOYKA
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-BOYKA.m3u8
-#EXTINF:0 tvg-id="50720" tvg-name="PlayerCinema JASON STATHAM" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50720-69b858555befb.png" group-title="PLAYER TV",PlayerCinema JASON STATHAM
+#EXTINF:0 tvg-id="50720" tvg-name="PlayerCinema JASON STATHAM" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50720-69b858555befb.png" group-title="FreeNetTV",PlayerCinema JASON STATHAM
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-jasonstatham.m3u8
-#EXTINF:0 tvg-id="50723" tvg-name="PlayerCinema TRANSFORMER 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50723-69b84edc8fc00.png" group-title="PLAYER TV",PlayerCinema TRANSFORMER 1
+#EXTINF:0 tvg-id="50723" tvg-name="PlayerCinema TRANSFORMER 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50723-69b84edc8fc00.png" group-title="FreeNetTV",PlayerCinema TRANSFORMER 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-transformer1.m3u8
-#EXTINF:0 tvg-id="50724" tvg-name="PlayerCinema TRANSFORMER 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50724-69b84ff0c9eeb.png" group-title="PLAYER TV",PlayerCinema TRANSFORMER 2
+#EXTINF:0 tvg-id="50724" tvg-name="PlayerCinema TRANSFORMER 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50724-69b84ff0c9eeb.png" group-title="FreeNetTV",PlayerCinema TRANSFORMER 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-transformer2.m3u8
-#EXTINF:0 tvg-id="50725" tvg-name="PlayerCinema BOLLYWOOD" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50725-69b8420210b55.png" group-title="PLAYER TV",PlayerCinema BOLLYWOOD 1
+#EXTINF:0 tvg-id="50725" tvg-name="PlayerCinema BOLLYWOOD" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50725-69b8420210b55.png" group-title="FreeNetTV",PlayerCinema BOLLYWOOD 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-bollywood.m3u8
-#EXTINF:0 tvg-id="50786" tvg-name="PlayerCınema BOLLYWOOD 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50786-69b8575732e68.png" group-title="PLAYER TV",PlayerCınema BOLLYWOOD 2
+#EXTINF:0 tvg-id="50786" tvg-name="PlayerCınema BOLLYWOOD 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50786-69b8575732e68.png" group-title="FreeNetTV",PlayerCınema BOLLYWOOD 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercnema-bollywood2.m3u8
-#EXTINF:0 tvg-id="50726" tvg-name="PlayerCinema ANTONIO BANDERAS" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50726-69b8550934bae.png" group-title="PLAYER TV",PlayerCinema ANTONIO BANDERAS
+#EXTINF:0 tvg-id="50726" tvg-name="PlayerCinema ANTONIO BANDERAS" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50726-69b8550934bae.png" group-title="FreeNetTV",PlayerCinema ANTONIO BANDERAS
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-antoniobanderas.m3u8
-#EXTINF:0 tvg-id="50728" tvg-name="PlayerCinema JACKE CHAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50728-69b85a74e3e05.png" group-title="PLAYER TV",PlayerCinema JACKE CHAN
+#EXTINF:0 tvg-id="50728" tvg-name="PlayerCinema JACKE CHAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50728-69b85a74e3e05.png" group-title="FreeNetTV",PlayerCinema JACKE CHAN
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-jackechan.m3u8
-#EXTINF:0 tvg-id="50729" tvg-name="PlayerCinema JACKE CHAN 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50729-69b85b04e1a58.png" group-title="PLAYER TV",PlayerCinema JACKE CHAN 2
+#EXTINF:0 tvg-id="50729" tvg-name="PlayerCinema JACKE CHAN 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50729-69b85b04e1a58.png" group-title="FreeNetTV",PlayerCinema JACKE CHAN 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-jackechan2.m3u8
-#EXTINF:0 tvg-id="50730" tvg-name="PlayerCinema STIVEN SEGAL 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50730-69b85b54b3527.png" group-title="PLAYER TV",PlayerCinema STIVEN SEGAL 1
+#EXTINF:0 tvg-id="50730" tvg-name="PlayerCinema STIVEN SEGAL 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50730-69b85b54b3527.png" group-title="FreeNetTV",PlayerCinema STIVEN SEGAL 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-stivensegal1.m3u8
-#EXTINF:0 tvg-id="50731" tvg-name="PlayerCinema STIVEN SEGAL 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50731-69b85bda34550.png" group-title="PLAYER TV",PlayerCinema STIVEN SEGAL 2
+#EXTINF:0 tvg-id="50731" tvg-name="PlayerCinema STIVEN SEGAL 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50731-69b85bda34550.png" group-title="FreeNetTV",PlayerCinema STIVEN SEGAL 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-stivensegal2.m3u8
-#EXTINF:0 tvg-id="50732" tvg-name="PlayerCinema PREMIUM 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50732-69b842872ed1b.png" group-title="PLAYER TV",PlayerCinema PREMIUM 1
+#EXTINF:0 tvg-id="50732" tvg-name="PlayerCinema PREMIUM 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50732-69b842872ed1b.png" group-title="FreeNetTV",PlayerCinema PREMIUM 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-premium 1.m3u8
-#EXTINF:0 tvg-id="50740" tvg-name="PlayerCinema PREMIUM 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50740-69b85ec57e564.png" group-title="PLAYER TV",PlayerCinema PREMIUM 2
+#EXTINF:0 tvg-id="50740" tvg-name="PlayerCinema PREMIUM 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50740-69b85ec57e564.png" group-title="FreeNetTV",PlayerCinema PREMIUM 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-premium2.m3u8
-#EXTINF:0 tvg-id="50955" tvg-name="PlayerCinema PREMIUM 3" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50955-69cd5c1905c28.png" group-title="PLAYER TV",PlayerCinema PREMIUM 3
+#EXTINF:0 tvg-id="50955" tvg-name="PlayerCinema PREMIUM 3" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50955-69cd5c1905c28.png" group-title="FreeNetTV",PlayerCinema PREMIUM 3
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-premium3.m3u8
-#EXTINF:0 tvg-id="50960" tvg-name="PlayerCinema PREMIUM 4" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50960-69cd5cc5dd132.png" group-title="PLAYER TV",PlayerCinema PREMIUM 4
+#EXTINF:0 tvg-id="50960" tvg-name="PlayerCinema PREMIUM 4" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50960-69cd5cc5dd132.png" group-title="FreeNetTV",PlayerCinema PREMIUM 4
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-premium4.m3u8
-#EXTINF:0 tvg-id="50961" tvg-name="PlayerCinema PREMIUM 5" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png" group-title="PLAYER TV",PlayerCinema PREMIUM 5
+#EXTINF:0 tvg-id="50961" tvg-name="PlayerCinema PREMIUM 5" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png" group-title="FreeNetTV",PlayerCinema PREMIUM 5
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-premium5.m3u8
-#EXTINF:0 tvg-id="51036" tvg-name="PlayerCinema_PREMIUM 6" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51036-69e27d03ce6bc.png" group-title="PLAYER TV",PlayerCinema_PREMIUM 6
+#EXTINF:0 tvg-id="51036" tvg-name="PlayerCinema_PREMIUM 6" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51036-69e27d03ce6bc.png" group-title="FreeNetTV",PlayerCinema_PREMIUM 6
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema_premium-6.m3u8
-#EXTINF:0 tvg-id="50679" tvg-name="PlayerCinema CONTINENTAL" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50679-69b8507c65847.png" group-title="PLAYER TV",PlayerCinema CONTINENTAL
+#EXTINF:0 tvg-id="50679" tvg-name="PlayerCinema CONTINENTAL" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50679-69b8507c65847.png" group-title="FreeNetTV",PlayerCinema CONTINENTAL
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-kontinental.m3u8
-#EXTINF:0 tvg-id="50733" tvg-name="PlayerCinema JOHN WICK HD" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50733-69b85c35dad91.png" group-title="PLAYER TV",PlayerCinema JOHN WICK HD
+#EXTINF:0 tvg-id="50733" tvg-name="PlayerCinema JOHN WICK HD" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50733-69b85c35dad91.png" group-title="FreeNetTV",PlayerCinema JOHN WICK HD
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-johnwickhd.m3u8
-#EXTINF:0 tvg-id="50734" tvg-name="PlayerCinema BRUS LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50734-69b85cb53cd28.png" group-title="PLAYER TV",PlayerCinema BRUS LEE
+#EXTINF:0 tvg-id="50734" tvg-name="PlayerCinema BRUS LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50734-69b85cb53cd28.png" group-title="FreeNetTV",PlayerCinema BRUS LEE
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-bruslee.m3u8
-#EXTINF:0 tvg-id="50736" tvg-name="PlayerCinema BRENDON LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50736-69b85d1bd7138.png" group-title="PLAYER TV",PlayerCinema BRENDON LEE
+#EXTINF:0 tvg-id="50736" tvg-name="PlayerCinema BRENDON LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50736-69b85d1bd7138.png" group-title="FreeNetTV",PlayerCinema BRENDON LEE
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-brendonlee.m3u8
-#EXTINF:0 tvg-id="50953" tvg-name="PlayerCinema Universal-Esger" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50953-69cfdd6264db5.png" group-title="PLAYER TV",PlayerCinema Universal-Esger
+#EXTINF:0 tvg-id="50953" tvg-name="PlayerCinema Universal-Esger" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50953-69cfdd6264db5.png" group-title="FreeNetTV",PlayerCinema Universal-Esger
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-universal-esger.m3u8
-#EXTINF:0 tvg-id="50738" tvg-name="PlayerCinema TERMINATOR" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50738-69b85e36e8c9f.png" group-title="PLAYER TV",PlayerCinema TERMINATOR
+#EXTINF:0 tvg-id="50738" tvg-name="PlayerCinema TERMINATOR" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50738-69b85e36e8c9f.png" group-title="FreeNetTV",PlayerCinema TERMINATOR
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-terminator.m3u8
-#EXTINF:0 tvg-id="50754" tvg-name="PlayerCinema IP MAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50754-69b856b1c0be0.png" group-title="PLAYER TV",PlayerCinema IP MAN
+#EXTINF:0 tvg-id="50754" tvg-name="PlayerCinema IP MAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50754-69b856b1c0be0.png" group-title="FreeNetTV",PlayerCinema IP MAN
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-ipman.m3u8
-#EXTINF:0 tvg-id="50750" tvg-name="PlayerCinema JET LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50750-69b857ac8c926.png" group-title="PLAYER TV",PlayerCinema JET LEE
+#EXTINF:0 tvg-id="50750" tvg-name="PlayerCinema JET LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50750-69b857ac8c926.png" group-title="FreeNetTV",PlayerCinema JET LEE
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-jetlee.m3u8
-#EXTINF:0 tvg-id="50781" tvg-name="PlayerCinema BATMAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50781-69b841194d3e3.png" group-title="PLAYER TV",PlayerCinema BATMAN
+#EXTINF:0 tvg-id="50781" tvg-name="PlayerCinema BATMAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50781-69b841194d3e3.png" group-title="FreeNetTV",PlayerCinema BATMAN
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-batman.m3u8
-#EXTINF:0 tvg-id="50782" tvg-name="PlayerCinema HORUMCEK ADAM" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50782-69b85f2e195b4.png" group-title="PLAYER TV",PlayerCinema HORUMCEK ADAM
+#EXTINF:0 tvg-id="50782" tvg-name="PlayerCinema HORUMCEK ADAM" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50782-69b85f2e195b4.png" group-title="FreeNetTV",PlayerCinema HORUMCEK ADAM
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-horumcekadam.m3u8
-#EXTINF:0 tvg-id="50947" tvg-name="PlayerCınema YIRTICI" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png" group-title="PLAYER TV",PlayerCınema YIRTICI 1
+#EXTINF:0 tvg-id="50947" tvg-name="PlayerCınema YIRTICI" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png" group-title="FreeNetTV",PlayerCınema YIRTICI 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercnema-yirtici.m3u8
-#EXTINF:0 tvg-id="50948" tvg-name="PlayerCınema YIRTICI 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png" group-title="PLAYER TV",PlayerCınema YIRTICI 2
+#EXTINF:0 tvg-id="50948" tvg-name="PlayerCınema YIRTICI 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png" group-title="FreeNetTV",PlayerCınema YIRTICI 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercnema-yirtici2.m3u8
-#EXTINF:0 tvg-id="50749" tvg-name="PlayerCinema GODZILLA" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50749-69b85ff51dfd2.png" group-title="PLAYER TV",PlayerCinema GODZILLA
+#EXTINF:0 tvg-id="50749" tvg-name="PlayerCinema GODZILLA" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50749-69b85ff51dfd2.png" group-title="FreeNetTV",PlayerCinema GODZILLA
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-godzilla 1.m3u8
-#EXTINF:0 tvg-id="50748" tvg-name="PlayerCinema MAYMUNLAR" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50748-69b85589bb5e1.png" group-title="PLAYER TV",PlayerCinema MAYMUNLAR
+#EXTINF:0 tvg-id="50748" tvg-name="PlayerCinema MAYMUNLAR" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50748-69b85589bb5e1.png" group-title="FreeNetTV",PlayerCinema MAYMUNLAR
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-maymunlar.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema_Obiriks-ve-Asteriks"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9b03ae92e.png" group-title="PLAYER TV",PlayerCinema_Obiriks-ve-Asteriks
+#EXTINF:-1 tvg-name="PlayerCinema_Obiriks-ve-Asteriks"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9b03ae92e.png" group-title="FreeNetTV",PlayerCinema_Obiriks-ve-Asteriks
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema_obiriks-ve-asteri.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema_Peaky-Brinders_1"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9a0cc71bc.png" group-title="PLAYER TV",PlayerCinema_Peaky-Brinders_1
+#EXTINF:-1 tvg-name="PlayerCinema_Peaky-Brinders_1"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9a0cc71bc.png" group-title="FreeNetTV",PlayerCinema_Peaky-Brinders_1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema_peaky-brinders_1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema_BUTTERFLY_1"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9effbf071.png" group-title="PLAYER TV",PlayerCinema_BUTTERFLY_1
+#EXTINF:-1 tvg-name="PlayerCinema_BUTTERFLY_1"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9effbf071.png" group-title="FreeNetTV",PlayerCinema_BUTTERFLY_1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema_butterfly_1.m3u8
-#EXTINF:0 tvg-id="50553" tvg-name="PlayerCinema Fantastika" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50553-69940bdfc4f57.png" group-title="PLAYER TV",PlayerCinema Fantastika
+#EXTINF:0 tvg-id="50553" tvg-name="PlayerCinema Fantastika" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50553-69940bdfc4f57.png" group-title="FreeNetTV",PlayerCinema Fantastika
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-fantastika.m3u8
-#EXTINF:0 tvg-id="50520" tvg-name="PlayerCinema John Wick" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50520-69940a585fb6f.png" group-title="PLAYER TV",PlayerCinema John Wick
+#EXTINF:0 tvg-id="50520" tvg-name="PlayerCinema John Wick" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50520-69940a585fb6f.png" group-title="FreeNetTV",PlayerCinema John Wick
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkanal.m3u8
-#EXTINF:0 tvg-id="50392" tvg-name="PlayerCinema Hind Filmleri" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50392-698f71a8e945c.png" group-title="PLAYER TV",PlayerCinema Hind Filmleri-1
+#EXTINF:0 tvg-id="50392" tvg-name="PlayerCinema Hind Filmleri" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50392-698f71a8e945c.png" group-title="FreeNetTV",PlayerCinema Hind Filmleri-1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-hindfilmleri.m3u8
-#EXTINF:0 tvg-id="50892" tvg-name="PlayerCinema Hind_filmleri-2" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50892-69c69eb857e60.png" group-title="PLAYER TV",PlayerCinema Hind_filmleri-2
+#EXTINF:0 tvg-id="50892" tvg-name="PlayerCinema Hind_filmleri-2" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50892-69c69eb857e60.png" group-title="FreeNetTV",PlayerCinema Hind_filmleri-2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-hind_filmleri-2.m3u8
-#EXTINF:0 tvg-id="50893" tvg-name="PlayerCinema Hind_Filmleri-3" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50893-69c69dbfebba8.png" group-title="PLAYER TV",PlayerCinema Hind_Filmleri-3
+#EXTINF:0 tvg-id="50893" tvg-name="PlayerCinema Hind_Filmleri-3" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50893-69c69dbfebba8.png" group-title="FreeNetTV",PlayerCinema Hind_Filmleri-3
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-hind_filmleri-3.m3u8
-#EXTINF:0 tvg-id="50894" tvg-name="PlayerCinema Hind_Filmleri-4" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50894-69c69e670da6f.png" group-title="PLAYER TV",PlayerCinema Hind_Filmleri-4
+#EXTINF:0 tvg-id="50894" tvg-name="PlayerCinema Hind_Filmleri-4" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50894-69c69e670da6f.png" group-title="FreeNetTV",PlayerCinema Hind_Filmleri-4
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-hind_filmleri-4.m3u8
-#EXTINF:0 tvg-id="50895" tvg-name="PlayerCinema Hind_Filmleri-5" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50895-69c69d5b0f83a.png" group-title="PLAYER TV",PlayerCinema Hind_Filmleri-5
+#EXTINF:0 tvg-id="50895" tvg-name="PlayerCinema Hind_Filmleri-5" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50895-69c69d5b0f83a.png" group-title="FreeNetTV",PlayerCinema Hind_Filmleri-5
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-hind_filmleri-5.m3u8
-#EXTINF:0 tvg-id="50897" tvg-name="PlayerCinema Hind_Filmleri-6" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50897-69c6d36d7c41f.png" group-title="PLAYER TV",PlayerCinema Hind_Filmleri-6
+#EXTINF:0 tvg-id="50897" tvg-name="PlayerCinema Hind_Filmleri-6" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50897-69c6d36d7c41f.png" group-title="FreeNetTV",PlayerCinema Hind_Filmleri-6
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-hind_filmleri-6.m3u8
-#EXTINF:0 tvg-id="50638" tvg-name="Player VETEN OĞLU" tvg-logo="https://img.catcast.tv/uploads/27022026/logos/50638-69a1b05bbd70e.png" group-title="PLAYER TV",PlayerFilm VETEN OĞLU
+#EXTINF:0 tvg-id="50638" tvg-name="Player VETEN OĞLU" tvg-logo="https://img.catcast.tv/uploads/27022026/logos/50638-69a1b05bbd70e.png" group-title="FreeNetTV",PlayerFilm VETEN OĞLU
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=player-vetenolu.m3u8
-#EXTINF:0 tvg-id="50638" tvg-name="Player Qarabağ döyüşləri" tvg-logo="https://i.postimg.cc/6QqR8nyV/In-Shot-20260329-114731844.png" group-title="PLAYER TV",PlayerFilm Qarabağ döyüşləri
+#EXTINF:0 tvg-id="50638" tvg-name="Player Qarabağ döyüşləri" tvg-logo="https://i.postimg.cc/6QqR8nyV/In-Shot-20260329-114731844.png" group-title="FreeNetTV",PlayerFilm Qarabağ döyüşləri
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerfilm-vetenolu.m3u8
-#EXTINF:0 tvg-id="50372" tvg-name="PlayerCinema Aze_Dublaj-1" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50372-698f70090712e.png" group-title="PLAYER TV",PlayerCinema Aze_Dublaj-1
+#EXTINF:0 tvg-id="50372" tvg-name="PlayerCinema Aze_Dublaj-1" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50372-698f70090712e.png" group-title="FreeNetTV",PlayerCinema Aze_Dublaj-1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublyaj-1.m3u8
-#EXTINF:0 tvg-id="50881" tvg-name="PlayerCinema Aze_Dublaj-2" tvg-logo="https://img.catcast.tv/uploads/26032026/logos/50881-69c45bafc54d5.png" group-title="PLAYER TV",PlayerCinema Aze_Dublaj-2
+#EXTINF:0 tvg-id="50881" tvg-name="PlayerCinema Aze_Dublaj-2" tvg-logo="https://img.catcast.tv/uploads/26032026/logos/50881-69c45bafc54d5.png" group-title="FreeNetTV",PlayerCinema Aze_Dublaj-2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-2.m3u8
-#EXTINF:0 tvg-id="50885" tvg-name="PlayerCinema Aze_Dublaj-3" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50885-69c69f263f637.png" group-title="PLAYER TV",PlayerCinema Aze_Dublaj-3
+#EXTINF:0 tvg-id="50885" tvg-name="PlayerCinema Aze_Dublaj-3" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50885-69c69f263f637.png" group-title="FreeNetTV",PlayerCinema Aze_Dublaj-3
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-3.m3u8
-#EXTINF:0 tvg-id="50889" tvg-name="PlayerCinema-Aze_Dublaj-4" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50889-69c69f94437c2.png" group-title="PLAYER TV",PlayerCinema-Aze_Dublaj-4
+#EXTINF:0 tvg-id="50889" tvg-name="PlayerCinema-Aze_Dublaj-4" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50889-69c69f94437c2.png" group-title="FreeNetTV",PlayerCinema-Aze_Dublaj-4
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-4.m3u8
-#EXTINF:0 tvg-id="50891" tvg-name="PlayerCinema-Aze_Dublaj-5" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50891-69c6a005e41c9.png" group-title="PLAYER TV",PlayerCinema-Aze_Dublaj-5
+#EXTINF:0 tvg-id="50891" tvg-name="PlayerCinema-Aze_Dublaj-5" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50891-69c6a005e41c9.png" group-title="FreeNetTV",PlayerCinema-Aze_Dublaj-5
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-5.m3u8
-#EXTINF:0 tvg-id="50923" tvg-name="PlayerCinema Aze_Dublaj-6" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50923-69ca9c7d5bb55.png" group-title="PLAYER TV",PlayerCinema Aze_Dublaj-6
+#EXTINF:0 tvg-id="50923" tvg-name="PlayerCinema Aze_Dublaj-6" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50923-69ca9c7d5bb55.png" group-title="FreeNetTV",PlayerCinema Aze_Dublaj-6
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-6.m3u8
-#EXTINF:0 tvg-id="50924" tvg-name="PlayerCinema Aze_Dublaj-7" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50924-69ca8d6004842.png" group-title="PLAYER TV",PlayerCinema Aze_Dublaj-7
+#EXTINF:0 tvg-id="50924" tvg-name="PlayerCinema Aze_Dublaj-7" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50924-69ca8d6004842.png" group-title="FreeNetTV",PlayerCinema Aze_Dublaj-7
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-7.m3u8
-#EXTINF:0 tvg-id="50926" tvg-name="PlayerCinema Aze_Dublaj-8" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50926-69caa025e5212.png" group-title="PLAYER TV",PlayerCinema Aze_Dublaj-8
+#EXTINF:0 tvg-id="50926" tvg-name="PlayerCinema Aze_Dublaj-8" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50926-69caa025e5212.png" group-title="FreeNetTV",PlayerCinema Aze_Dublaj-8
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-8.m3u8
-#EXTINF:0 tvg-id="50928" tvg-name="PlayerCinema Aze_Dublaj-9" tvg-logo="https://img.catcast.tv/uploads/31032026/logos/50928-69cc1677cb6dc.png" group-title="PLAYER TV",PlayerCinema Aze_Dublaj-9
+#EXTINF:0 tvg-id="50928" tvg-name="PlayerCinema Aze_Dublaj-9" tvg-logo="https://img.catcast.tv/uploads/31032026/logos/50928-69cc1677cb6dc.png" group-title="FreeNetTV",PlayerCinema Aze_Dublaj-9
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-9.m3u8
-#EXTINF:0 tvg-id="50929" tvg-name="PlayerCinema Aze_Dublaj-10" tvg-logo="https://img.catcast.tv/uploads/31032026/logos/50929-69cc15964546d.png" group-title="PLAYER TV",PlayerCinema Aze_Dublaj-10
+#EXTINF:0 tvg-id="50929" tvg-name="PlayerCinema Aze_Dublaj-10" tvg-logo="https://img.catcast.tv/uploads/31032026/logos/50929-69cc15964546d.png" group-title="FreeNetTV",PlayerCinema Aze_Dublaj-10
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-aze_dublaj-10.m3u8
-#EXTINF:0 tvg-id="50472" tvg-name="PlayerFilm AZERBAYCAN" tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png" group-title="PLAYER TV",PlayerFilm AZERBAYCAN-1
+#EXTINF:0 tvg-id="50472" tvg-name="PlayerFilm AZERBAYCAN" tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png" group-title="FreeNetTV",PlayerFilm AZERBAYCAN-1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerfilm-azerbaycan.m3u8
-#EXTINF:0 tvg-id="50917" tvg-name="PlayerFilm Azerbaycan-2" tvg-logo="https://img.catcast.tv/uploads/29032026/logos/50917-69c97390794cb.png" group-title="PLAYER TV",PlayerFilm Azerbaycan-2
+#EXTINF:0 tvg-id="50917" tvg-name="PlayerFilm Azerbaycan-2" tvg-logo="https://img.catcast.tv/uploads/29032026/logos/50917-69c97390794cb.png" group-title="FreeNetTV",PlayerFilm Azerbaycan-2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerfilm-azerbaycan-2.m3u8
-#EXTINF:0 tvg-id="50370" tvg-name="PlayerKomedi Azerbaycan Film" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50370-698b4b5495325.png" group-title="PLAYER TV",PlayerKomedi Azerbaycan Film 1
+#EXTINF:0 tvg-id="50370" tvg-name="PlayerKomedi Azerbaycan Film" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50370-698b4b5495325.png" group-title="FreeNetTV",PlayerKomedi Azerbaycan Film 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-azerbaycanfilm.m3u8
-#EXTINF:0 tvg-id="50373" tvg-name="PlayerKomedi AzFilm 2" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50373-698b4b14a58e5.png" group-title="PLAYER TV",PlayerKomedi AzFilm 2
+#EXTINF:0 tvg-id="50373" tvg-name="PlayerKomedi AzFilm 2" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50373-698b4b14a58e5.png" group-title="FreeNetTV",PlayerKomedi AzFilm 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-azfilm.m3u8
-#EXTINF:0 tvg-id="50500" tvg-name="PlayerKomedi BOZBASH PICTURES 1" tvg-logo="https://img.catcast.tv/uploads/11022026/logos/50500-698c4dac79c98.png" group-title="PLAYER TV",PlayerKomedi BOZBASH PICTURES 1
+#EXTINF:0 tvg-id="50500" tvg-name="PlayerKomedi BOZBASH PICTURES 1" tvg-logo="https://img.catcast.tv/uploads/11022026/logos/50500-698c4dac79c98.png" group-title="FreeNetTV",PlayerKomedi BOZBASH PICTURES 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-bozbashpictures1.m3u8
-#EXTINF:0 tvg-id="50393" tvg-name="PlayerKomedi BOZBASH PICTURES 2" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50393-698b493dabd60.png" group-title="PLAYER TV",PlayerKomedi BOZBASH PICTURES 2
+#EXTINF:0 tvg-id="50393" tvg-name="PlayerKomedi BOZBASH PICTURES 2" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50393-698b493dabd60.png" group-title="FreeNetTV",PlayerKomedi BOZBASH PICTURES 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-bozbashpikcher.m3u8
-#EXTINF:0 tvg-id="50515" tvg-name="PlayerKomedi Bu Şeherde" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50515-698f8bc85844b.png" group-title="PLAYER TV",PlayerKomedi Bu Şeherde 1
+#EXTINF:0 tvg-id="50515" tvg-name="PlayerKomedi Bu Şeherde" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50515-698f8bc85844b.png" group-title="FreeNetTV",PlayerKomedi Bu Şeherde 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-bueherde.m3u8
-#EXTINF:0 tvg-id="50527" tvg-name="PlayerKomedi Bu Şeherde 2" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50527-6990e8c4e14c6.png" group-title="PLAYER TV",PlayerKomedi Bu Şeherde 2
+#EXTINF:0 tvg-id="50527" tvg-name="PlayerKomedi Bu Şeherde 2" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50527-6990e8c4e14c6.png" group-title="FreeNetTV",PlayerKomedi Bu Şeherde 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-bueherde2.m3u8
-#EXTINF:0 tvg-id="50471" tvg-name="PlayerFilm TURKIYE" tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50471-698617f126fce.png" group-title="PLAYER TV",PlayerFilm TURKIYE
+#EXTINF:0 tvg-id="50471" tvg-name="PlayerFilm TURKIYE" tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50471-698617f126fce.png" group-title="FreeNetTV",PlayerFilm TURKIYE
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerfilm turkiye.m3u8
-#EXTINF:0 tvg-id="50369" tvg-name="PlayerKomedi Деревня Дураков" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50369-698b36bbafa98.png" group-title="PLAYER TV",PlayerKomedi Деревня Дураков
+#EXTINF:0 tvg-id="50369" tvg-name="PlayerKomedi Деревня Дураков" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50369-698b36bbafa98.png" group-title="FreeNetTV",PlayerKomedi Деревня Дураков
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-деревнядураков.m3u8
-#EXTINF:0 tvg-id="50490" tvg-name="PlayerKomedi Roman Havasi" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50490-698f8d372cccc.png" group-title="PLAYER TV",PlayerKomedi Roman Havasi
+#EXTINF:0 tvg-id="50490" tvg-name="PlayerKomedi Roman Havasi" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50490-698f8d372cccc.png" group-title="FreeNetTV",PlayerKomedi Roman Havasi
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-romanhavasi.m3u8
-#EXTINF:0 tvg-id="50489" tvg-name="PlayerKomedi Cennet Mahallesi" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50489-698b41a1daa09.png" group-title="PLAYER TV",PlayerKomedi Cennet Mahallesi 1
+#EXTINF:0 tvg-id="50489" tvg-name="PlayerKomedi Cennet Mahallesi" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50489-698b41a1daa09.png" group-title="FreeNetTV",PlayerKomedi Cennet Mahallesi 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-cennetmahallesi.m3u8
-#EXTINF:0 tvg-id="50501" tvg-name="PlayerKomedi Cennet Mahallesi 2" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50501-698f78b9e6144.png" group-title="PLAYER TV",PlayerKomedi Cennet Mahallesi 2
+#EXTINF:0 tvg-id="50501" tvg-name="PlayerKomedi Cennet Mahallesi 2" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50501-698f78b9e6144.png" group-title="FreeNetTV",PlayerKomedi Cennet Mahallesi 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-cennetmahallesi2.m3u8
-#EXTINF:0 tvg-id="50433" tvg-name="PlayerKomedi Kemal Sunal" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50433-698f738922042.png" group-title="PLAYER TV",PlayerKomedi Kemal Sunal 1
+#EXTINF:0 tvg-id="50433" tvg-name="PlayerKomedi Kemal Sunal" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50433-698f738922042.png" group-title="FreeNetTV",PlayerKomedi Kemal Sunal 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-kemalsunal.m3u8
-#EXTINF:0 tvg-id="50432" tvg-name="PlayerKomedi Kemal Sunal 2" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50432-698f83cc4a740.png" group-title="PLAYER TV",PlayerKomedi Kemal Sunal 2
+#EXTINF:0 tvg-id="50432" tvg-name="PlayerKomedi Kemal Sunal 2" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50432-698f83cc4a740.png" group-title="FreeNetTV",PlayerKomedi Kemal Sunal 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playertest.m3u8
-#EXTINF:0 tvg-id="50563" tvg-name="PlayerKomedi Kemal Sunal 3" tvg-logo="https://img.catcast.tv/uploads/18022026/logos/50563-69959de11ed7a.png" group-title="PLAYER TV",PlayerKomedi Kemal Sunal 3
+#EXTINF:0 tvg-id="50563" tvg-name="PlayerKomedi Kemal Sunal 3" tvg-logo="https://img.catcast.tv/uploads/18022026/logos/50563-69959de11ed7a.png" group-title="FreeNetTV",PlayerKomedi Kemal Sunal 3
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-kemalsunal 3.m3u8
-#EXTINF:0 tvg-id="50564" tvg-name="PlayerKomedi Şener Şen" tvg-logo="https://img.catcast.tv/uploads/24022026/logos/50564-699d424f63003.png" group-title="PLAYER TV",PlayerKomedi Şener Şen
+#EXTINF:0 tvg-id="50564" tvg-name="PlayerKomedi Şener Şen" tvg-logo="https://img.catcast.tv/uploads/24022026/logos/50564-699d424f63003.png" group-title="FreeNetTV",PlayerKomedi Şener Şen
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playertrk-eneren.m3u8
-#EXTINF:0 tvg-id="50428" tvg-name="PlayerWWE" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50428-698b472767a59.png" group-title="PLAYER TV",PlayerWWE
+#EXTINF:0 tvg-id="50428" tvg-name="PlayerWWE" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50428-698b472767a59.png" group-title="FreeNetTV",PlayerWWE
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerwwe.m3u8
-#EXTINF:-1 tvg-name="PlayerCizgiFilm_Obiriks-ve-Asteriks"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9b7b1a47e.png" group-title="PLAYER TV",PlayerCizgiFilm_Obiriks-ve-Asteriks
+#EXTINF:-1 tvg-name="PlayerCizgiFilm_Obiriks-ve-Asteriks"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9b7b1a47e.png" group-title="FreeNetTV",PlayerCizgiFilm_Obiriks-ve-Asteriks
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm_obiriks-ve-ast.m3u8
-#EXTINF:-1 tvg-name="PlayerCizgiFilm_Disney"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9a0cc71bc.png" group-title="PLAYER TV",PlayerCizgiFilm_Disney
+#EXTINF:-1 tvg-name="PlayerCizgiFilm_Disney"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9a0cc71bc.png" group-title="FreeNetTV",PlayerCizgiFilm_Disney
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm_disney.m3u8
-#EXTINF:0 tvg-id="50958" tvg-name="PlayerCizgiFilm PANDA 1" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50958-69cfdb19cb169.png" group-title="PLAYER TV",PlayerCizgiFilm PANDA 1
+#EXTINF:0 tvg-id="50958" tvg-name="PlayerCizgiFilm PANDA 1" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50958-69cfdb19cb169.png" group-title="FreeNetTV",PlayerCizgiFilm PANDA 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm-panda1.m3u8
-#EXTINF:0 tvg-id="50959" tvg-name="PlayerCizgiFilm PANDA 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50959-69cfdb72e3a1c.png" group-title="PLAYER TV",PlayerCizgiFilm PANDA 2
+#EXTINF:0 tvg-id="50959" tvg-name="PlayerCizgiFilm PANDA 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50959-69cfdb72e3a1c.png" group-title="FreeNetTV",PlayerCizgiFilm PANDA 2
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm-panda2.m3u8
-#EXTINF:0 tvg-id="51035" tvg-name="PlayerCizgiFilm_Buz-Devri" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51035-69e27e41261be.png" group-title="PLAYER TV",PlayerCizgiFilm_Buz-Devri
+#EXTINF:0 tvg-id="51035" tvg-name="PlayerCizgiFilm_Buz-Devri" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51035-69e27e41261be.png" group-title="FreeNetTV",PlayerCizgiFilm_Buz-Devri
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm_buz-devri.m3u8
-#EXTINF:0 tvg-id="51037" tvg-name="PlayerCizgiFilm_BERNARD" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51037-69e2805802e3b.png" group-title="PLAYER TV",PlayerCizgiFilm_BERNARD
+#EXTINF:0 tvg-id="51037" tvg-name="PlayerCizgiFilm_BERNARD" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51037-69e2805802e3b.png" group-title="FreeNetTV",PlayerCizgiFilm_BERNARD
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm_bernard.m3u8
-#EXTINF:0 tvg-id="50849" tvg-name="PlayerCizgiFilm TOM ve JERRY" tvg-logo="https://img.catcast.tv/uploads/21032026/logos/50849-69bdb3e603214.png" group-title="PLAYER TV",PlayerCizgiFilm TOM ve JERRY
+#EXTINF:0 tvg-id="50849" tvg-name="PlayerCizgiFilm TOM ve JERRY" tvg-logo="https://img.catcast.tv/uploads/21032026/logos/50849-69bdb3e603214.png" group-title="FreeNetTV",PlayerCizgiFilm TOM ve JERRY
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm-tomvejerry.m3u8
-#EXTINF:0 tvg-id="50560" tvg-name="PlayerCızgıFılm Maşa veAyı" tvg-logo="https://img.catcast.tv/uploads/18022026/logos/50560-69959ebbe8f76.png" group-title="PLAYER TV",PlayerCızgıFılm Maşa veAyı
+#EXTINF:0 tvg-id="50560" tvg-name="PlayerCızgıFılm Maşa veAyı" tvg-logo="https://img.catcast.tv/uploads/18022026/logos/50560-69959ebbe8f76.png" group-title="FreeNetTV",PlayerCızgıFılm Maşa veAyı
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerczgflm-maaveay.m3u8
-#EXTINF:0 tvg-id="50560" tvg-name="PlayerCizgiFilm Sevimlilər" tvg-logo="https://i.postimg.cc/zDyrxBgL/In-Shot-20260329-115838529.png" group-title="PLAYER TV",PlayerCizgiFilm Sevimlilər
+#EXTINF:0 tvg-id="50560" tvg-name="PlayerCizgiFilm Sevimlilər" tvg-logo="https://i.postimg.cc/zDyrxBgL/In-Shot-20260329-115838529.png" group-title="FreeNetTV",PlayerCizgiFilm Sevimlilər
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm-sevmller.m3u8
-#EXTINF:0 tvg-id="50941" tvg-name="PlayerCizgiFilm Maşınlar" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50941-69cfdbde2928a.png" group-title="PLAYER TV",PlayerCizgiFilm Maşınlar
+#EXTINF:0 tvg-id="50941" tvg-name="PlayerCizgiFilm Maşınlar" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50941-69cfdbde2928a.png" group-title="FreeNetTV",PlayerCizgiFilm Maşınlar
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm-maşınlar.m3u8
-#EXTINF:0 tvg-id="50954" tvg-name="PlayerCizgiFilm MADAGASCAR" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50954-69cfec2b5b09e.png" group-title="PLAYER TV",PlayerCizgiFilm MADAGASCAR
+#EXTINF:0 tvg-id="50954" tvg-name="PlayerCizgiFilm MADAGASCAR" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50954-69cfec2b5b09e.png" group-title="FreeNetTV",PlayerCizgiFilm MADAGASCAR
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm-madagascar.m3u8
-#EXTINF:0 tvg-id="50957" tvg-name="PlayerCizgiFilm Şrek&Ejdaha" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50957-69cff1514aabb.png" group-title="PLAYER TV",PlayerCizgiFilm Şrek&Ejdaha
+#EXTINF:0 tvg-id="50957" tvg-name="PlayerCizgiFilm Şrek&Ejdaha" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50957-69cff1514aabb.png" group-title="FreeNetTV",PlayerCizgiFilm Şrek&Ejdaha
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm-rekejdaha.m3u8
-#EXTINF:0 tvg-id="50538" tvg-name="PlayerTOY Mahnıları" tvg-logo="https://img.catcast.tv/uploads/16022026/logos/50538-6992c7f789dd2.png" group-title="PLAYER TV",PlayerTOY Mahnıları
+#EXTINF:0 tvg-id="50538" tvg-name="PlayerTOY Mahnıları" tvg-logo="https://img.catcast.tv/uploads/16022026/logos/50538-6992c7f789dd2.png" group-title="FreeNetTV",PlayerTOY Mahnıları
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playertoy-mahnlar.m3u8
-#EXTINF:0 tvg-id="50350" tvg-name="PlayerMusic Aze" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50350-6990ed0d9e8d2.png" group-title="PLAYER TV",PlayerMusic Aze
+#EXTINF:0 tvg-id="50350" tvg-name="PlayerMusic Aze" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50350-6990ed0d9e8d2.png" group-title="FreeNetTV",PlayerMusic Aze
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playermusic aze.m3u8
-#EXTINF:0 tvg-id="50366" tvg-name="PlayerGencMusic az" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50366-6990e09548e83.png" group-title="PLAYER TV",PlayerGencMusic az
+#EXTINF:0 tvg-id="50366" tvg-name="PlayerGencMusic az" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50366-6990e09548e83.png" group-title="FreeNetTV",PlayerGencMusic az
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playergencmusic-az.m3u8
-#EXTINF:0 tvg-id="50364" tvg-name="PlayerMeyxana TV" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50364-6990ea3069e47.png" group-title="PLAYER TV",PlayerMeyxana TV
+#EXTINF:0 tvg-id="50364" tvg-name="PlayerMeyxana TV" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50364-6990ea3069e47.png" group-title="FreeNetTV",PlayerMeyxana TV
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playermeyxana-tv.m3u8
-#EXTINF:0 tvg-id="50368" tvg-name="PlayerZevqMusic" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50368-698f84ff051de.png" group-title="PLAYER TV",PlayerZevqMusic
+#EXTINF:0 tvg-id="50368" tvg-name="PlayerZevqMusic" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50368-698f84ff051de.png" group-title="FreeNetTV",PlayerZevqMusic
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerzevqmusic.m3u8
-#EXTINF:0 tvg-id="50342" tvg-name="PlayerMusic HIT" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50342-6990e1ed8229d.png" group-title="PLAYER TV",PlayerMusic HIT
+#EXTINF:0 tvg-id="50342" tvg-name="PlayerMusic HIT" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50342-6990e1ed8229d.png" group-title="FreeNetTV",PlayerMusic HIT
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playermusic.m3u8
-#EXTINF:0 tvg-id="50578" tvg-name="PlayerHind MUSIC" tvg-logo="https://img.catcast.tv/uploads/20022026/logos/50578-6998335b5d46d.png" group-title="PLAYER TV",PlayerHind MUSIC
+#EXTINF:0 tvg-id="50578" tvg-name="PlayerHind MUSIC" tvg-logo="https://img.catcast.tv/uploads/20022026/logos/50578-6998335b5d46d.png" group-title="FreeNetTV",PlayerHind MUSIC
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerhind-music.m3u8 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",BAYZAN music ᵏᵃᵑᵏᵃ
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",BAYZAN music 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=bayzan-music
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",BAYZAN hits ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",BAYZAN hits 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=bayzan-hits
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",BAYZAN slow ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",BAYZAN slow 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=bayzan-slow
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",ULDUZ ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",ULDUZ 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=ulduz-tv
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Hind filmleri ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Hind filmleri 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimof-hind-filmleri.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Retro filmleri ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Retro filmleri 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimoff-azeri-retro-filmle.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Retro filmleri 2 ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Retro filmleri 2 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimoff-retro-filmler-2.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Bozbash ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Bozbash 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimoff-bozbash-production.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Slow musiqiler ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Slow musiqiler 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimoff-slow-musiqiler.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Vetendas A ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Vetendas A 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=vetendasa.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Alvin Ovcu ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Alvin Ovcu 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=AlvinOvcu
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Alvin Music ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Alvin Music 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=alvinmusic
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Balacan ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Balacan 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=balacan-tv-diginet
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Yansima slow sarkilar ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Yansima slow sarkilar 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=yansimaslowsarkilar
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik music ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik music 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmusicnesetertas
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik pepe ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik pepe 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikkidspepee
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik dag ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik dag 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmaxdag
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik korku ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik korku 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmaxkorku
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik kurtlar vadisi ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik kurtlar vadisi 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimekurtlarvadisi
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik korsan ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik korsan 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmaxboxkarayipkorsanlari
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik esref tek ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik esref tek 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimeesreftek
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik ed stafford ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik ed stafford 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimeEdStafford
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik avrupa yakasi ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik avrupa yakasi 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimeavrupayakasi
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik music nostalji ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik music nostalji 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmusicnostalji
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik deadpool ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik deadpool 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmaxdeadpool
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik kids sarkilar ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik kids sarkilar 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikkidsarkilar
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik music rojda ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik music rojda 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmusicrojda
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik tom jerry ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik tom jerry 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikkidstomjerry
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik caillou ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik caillou 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikkidscaillou
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik bizimkiler ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Fanatik bizimkiler 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimebizimkiler
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",STV-AZ ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",STV-AZ 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=stv-az
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",STVAZ ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",STVAZ 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=stvaz
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Karisik yayin ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Karisik yayin 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=karisikyayin
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Playbox ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Playbox 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playbox-mzk
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Perdenin ardindakilar ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Perdenin ardindakilar 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=perdenin-ardndakiler
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Filmbox cocuk ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Filmbox cocuk 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=filmboxcocuk
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Niloya ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Niloya 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=niloya
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Rihat tv ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Rihat tv 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=rihattv
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Show tv az ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Show tv az 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=showtvaz
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Now music ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Now music 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=now-music
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Ela music ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Ela music 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=elamusic
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Mustafa Ceceli ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Mustafa Ceceli 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=mustafa-ceceli
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Kral turk ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Kral turk 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=kralturk
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",K.Sunal ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",K.Sunal 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=ksunal
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Kanal 56 ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Kanal 56 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=kanal65
+
+
+
+
+
+
+
