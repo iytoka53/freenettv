@@ -11,14 +11,16 @@ https://catcast.ismailturret.workers.dev/sirius-tamasatv.m3u8
 https://catcast.ismailturret.workers.dev/sirius-hdworldcup2026.m3u8
 #EXTINF:-1 group-title="FreeNetTV",GƏNCƏ TV
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
-#EXTINF:-1 group-title="FreeNetTV",DigiNET Cinema
-https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:-1 group-title="FreeNetTV",Flux TV
-https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",S-TV Sinema
 https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",FİX TV
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
+#EXTINF:-1 group-title="FreeNetTV",TELE 10
+http://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/index.m3u8
+#EXTINF:-1 group-title="FreeNetTV",DigiNET Cinema
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Flux TV
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KƏPƏZ TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 group-title="FreeNetTV",EL TV
@@ -31,8 +33,6 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 http://stream.ftv.az/live/ftv.m3u8
 #EXTINF:-1 group-title="FreeNetTV",QAFQAZ TV
 http://str.yodacdn.net/qafkaz/index.m3u8
-#EXTINF:-1 group-title="FreeNetTV",TELE 10
-http://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/index.m3u8
 #EXTINF:-1 group-title="FreeNetTV",LİFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1 group-title="FreeNetTV",TV BEGEN
@@ -389,7 +389,7 @@ https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=filmboxcocuk
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=niloya
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Rihat tv 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=rihattv
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Show tv az 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Rihat music
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=showtvaz
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="FreeNetTV",Now music 
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=now-music
