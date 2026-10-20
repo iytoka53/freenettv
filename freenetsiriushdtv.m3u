@@ -43,10 +43,6 @@ https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 https://ip.almanyatv.net:3746/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",SDM SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FreeNetTV",PERVIY HD RU
-http://rtmp.one.by:2300/chunks.ts
-#EXTINF:-1 group-title="FreeNetTV",PERVIY HD BY
-http://rtmp.one.by:1300/chunks.ts
 #EXTINF:-1 group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KRAL POP HD
@@ -67,6 +63,12 @@ http://lordstreams.live:80/Bark/Bark/745540
 http://vivaelbetis.neospaxy.top:8080/44177567954251/fekwxvd8t3x8/8679
 #EXTINF:-1 group-title="FreeNetTV",PTV HD 4
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/16090/index.m3u8
+#EXTINF:-1 group-title="FreeNetTV",VIVA RUSSIAN
+http://162.212.179.32/akamaissh101/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1 group-title="FreeNetTV",PERVIY HD RU
+http://rtmp.one.by:2300/chunks.ts
+#EXTINF:-1 group-title="FreeNetTV",PERVIY HD BY
+http://rtmp.one.by:1300/chunks.ts
 #EXTINF:-1 group-title="FreeNetTV",YENİ KOCAELİ TV
 https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="FreeNetTV",CİNE5 TV
