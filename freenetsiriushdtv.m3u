@@ -25,6 +25,8 @@ http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",FƏRRUX TV
 http://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",KANAL 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",LİFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TV BEGEN
@@ -43,6 +45,8 @@ https://ip.almanyatv.net:3746/stream/play.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TELEVOLE TV
+https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",KRAL POP HD
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",Power Turk HD
@@ -73,6 +77,8 @@ https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",PERSİANA TÜRKİYE
 https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",ŞABAN TV
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MYWAY 2 TV
 http://45.88.139.156/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX TV
@@ -108,3 +114,13 @@ https://kanal65.xyz/now-cinema/now-netflix/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",NOW YESILCAM
 https://kanal65.xyz/now-cinema/now-yesilcam/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",Siyah Beyaz Aşk
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",Tatlı İntikam
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",Zalim İstanbul
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",AKASYA DURAĞI TV
+https://canli-tv.ismayilbaba611.workers.dev/stream.m3u8
