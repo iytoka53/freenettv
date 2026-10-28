@@ -3,8 +3,6 @@
 http://streamsat.siriushdtv-onlineclap.workers.dev/siriushd.m3u8
 #EXTINF:-1 group-title="FreeNetTV",GƏNCƏ TV
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
-#EXTINF:-1 group-title="FreeNetTV",S-TV Sinema
-https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",FİX TV
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
 #EXTINF:-1 group-title="FreeNetTV",TELE 10
@@ -13,6 +11,10 @@ http://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/index.m3u8
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",Flux TV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+#EXTINF:-1 group-title="FreeNetTV",Rihat TV
+https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FreeNetTV",S-TV Sinema
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",KƏPƏZ TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 group-title="FreeNetTV",EL TV
@@ -33,8 +35,6 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",RİZE TÜRK
 https://yayin.rizeturk.com:3777/stream/play.m3u8
-#EXTINF:-1 group-title="FreeNetTV",RİTİM TV
-https://ritimtv.ozelip.com:3632/hybrid/play.m3u8
 #EXTINF:-1 group-title="FreeNetTV",FortunaTV
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 group-title="FreeNetTV",ALMANYA TV
