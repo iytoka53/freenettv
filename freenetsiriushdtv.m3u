@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSmRJNs1/150srs.png" group-title="FreeNetTV",SİRİUS HD TV
 http://streamsat.siriushdtv-onlineclap.workers.dev/siriushd.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",GƏNCƏ TV
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",FİX TV
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TELE 10
@@ -11,6 +9,54 @@ http://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/index.m3u8
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",Flux TV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",SDM SİNEMA
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",ŞABAN TV
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TV BEGEN
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",VİYANA TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",İsviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",RİZE TÜRK
+https://yayin.rizeturk.com:3777/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MYWAY 2 TV
+http://45.88.139.156/d/live/out.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX TV
+http://162.212.179.32/akamaissh101/ssh101/maxtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX TV PİREMİER   
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX TV YERLİ
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX DİZİ
+http://162.212.179.32/akamaissh101/ssh101/maxdizi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",YANSIMA SİNEMA
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",YANSIMA NOSTALJİ
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",STAR1
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",STAR2
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",STAR3
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TÜRK MAX
+http://162.212.179.32/akamaissh101/ssh101/turk_max/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",ZirveSa Çocuk 
+http://162.212.179.32/akamaissh101/ssh101/zirvesacocuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",ZirveSa Dini
+http://162.212.179.32/akamaissh101/ssh101/zirvesadin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",PERSİANA TÜRKİYE
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",KANAL 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",LİFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",FortunaTV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",ALMANYA TV
+https://ip.almanyatv.net:3746/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",Rihat TV
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",S-TV Sinema
@@ -25,24 +71,6 @@ http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",FƏRRUX TV
 http://stream.ftv.az/live/ftv.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",KANAL 12
-https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",LİFE TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TV BEGEN
-https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",VİYANA TV
-http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",İsviçre TV
-https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",RİZE TÜRK
-https://yayin.rizeturk.com:3777/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",FortunaTV
-https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",ALMANYA TV
-https://ip.almanyatv.net:3746/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",SDM SİNEMA
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",KN MUSİC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TELEVOLE TV
@@ -75,32 +103,7 @@ http://rtmp.one.by:1300/chunks.ts
 https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",CİNE5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",PERSİANA TÜRKİYE
-https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",ŞABAN TV
-https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MYWAY 2 TV
-http://45.88.139.156/d/live/out.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX TV
-http://162.212.179.32/akamaissh101/ssh101/maxtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX TV PİREMİER   
-http://162.212.179.32/akamaissh101/ssh101/maxpremier/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX TV YERLİ
-http://162.212.179.32/akamaissh101/ssh101/maxyerli/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX DİZİ
-http://162.212.179.32/akamaissh101/ssh101/maxdizi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",YANSIMA SİNEMA
-http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",YANSIMA NOSTALJİ
-http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",STAR1
-http://162.212.179.32/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",STAR2
-http://162.212.179.32/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",STAR3
-http://162.212.179.32/akamaissh101/ssh101/tilaf_tv3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TÜRK MAX
-http://162.212.179.32/akamaissh101/ssh101/turk_max/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",KANAL 65
 https://kanal65.xyz/now-cinema/kanal-65/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",NOW AILE
@@ -124,3 +127,22 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playli
 https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",AKASYA DURAĞI TV
 https://canli-tv.ismayilbaba611.workers.dev/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/eu.png" group-title="FreeNetTV",FIFA TV
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20261014T135328.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/uk.png" group-title="FreeNetTV",TENNIS TV
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/us.png" group-title="FreeNetTV",WORLD STV
+https://pac12-samsungus.amagi.tv/240p-en-webvtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/us.png" group-title="FreeNetTV",VAAUUU TV
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/us.png" group-title="FreeNetTV",HORSE TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/us.png" group-title="FreeNetTV",NHL TV
+https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/uk.png" group-title="FreeNetTV",RACING TV
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/us.png" group-title="FreeNetTV",GAME PLUS
+https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/uk.png" group-title="FreeNetTV",DZ-COMBAT
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
