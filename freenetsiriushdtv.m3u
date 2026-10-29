@@ -5,10 +5,6 @@ http://streamsat.siriushdtv-onlineclap.workers.dev/siriushd.m3u8
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",TELE 10
 http://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/index.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",DigiNET Cinema
-https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",Flux TV
-https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",CİNE 5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",SDM SİNEMA TV
@@ -61,6 +57,10 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",ALMANYA TV
 https://ip.almanyatv.net:3746/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",DigiNET Cinema
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",Flux TV
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",RIHAT TV
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",S-TV Sinema
