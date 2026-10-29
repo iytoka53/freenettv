@@ -19,10 +19,12 @@ https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",İsviçre TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",İSVİCRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",RİZE TÜRK
 https://yayin.rizeturk.com:3777/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",YENİ KOCAELİ TV
+https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MYWAY 2 TV
 http://45.88.139.156/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",MAX TV
@@ -101,8 +103,6 @@ http://162.212.179.32/akamaissh101/ssh101/vivarussia/chunks.m3u8
 http://rtmp.one.by:2300/chunks.ts
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/by.png" group-title="FreeNetTV",PERVIY HD BY
 http://rtmp.one.by:1300/chunks.ts
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",YENİ KOCAELİ TV
-https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/az.png" group-title="FreeNetTV",KANAL 65
 https://kanal65.xyz/now-cinema/kanal-65/index.m3u8
@@ -128,10 +128,10 @@ https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlis
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/tr.png" group-title="FreeNetTV",AKASYA DURAĞI TV
 https://canli-tv.ismayilbaba611.workers.dev/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/eu.png" group-title="FreeNetTV",FIFA TV
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w80/eu.png" group-title="FreeNetTV",FIFA +
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20261014T135328.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/us.png" group-title="FreeNetTV",WORLD STV
-https://pac12-samsungus.amagi.tv/240p-en-webvtt/index.m3u8
+https://pac12-samsungus.amagi.tv/1080p-en-webvtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/us.png" group-title="FreeNetTV",VAAUUU TV
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w80/us.png" group-title="FreeNetTV",NHL TV
